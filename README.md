@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=250&section=header&text=Hi%20%F0%9F%91%8B,%20I'm%20Rishi%20Singhal&fontSize=50&animation=fadeIn&fontAlignY=38&desc=B.E.%20CSE%20Student%20|%20Competitive%20Programmer%20|%20Full%20Stack%20Developer&descAlignY=55&descAlign=62"/>
 </div>
 
-<h1 align="center">💫 Hi 👋, I'm Rishi Singhal</h1>
+<h1 align="center">💫 Hi 👋, I'm Rishi Singal</h1>
 
 <h3 align="center">A B.E. CSE (3rd Year/5th Sem) Student | Competitive Programmer | Aspiring Full-Stack Engineer from India 🇮🇳</h3>
 
