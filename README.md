@@ -76,7 +76,7 @@
   <img src="https://streak-stats.demolab.com/?user=rishisinghal01&theme=tokyonight&hide_border=false" width="49%" />
   <br/><br/>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=rishisinghal01&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="49%" />
-  <img src="https://leetcard.jacoblin.cool/anonymous1706?theme=dark&font=Baloo&ext=activity" width="49%" />
+  <img src="https://leetcard.jacoblin.cool/rishisingal0001?theme=dark&font=Baloo&ext=activity" width="49%" />
 </div>
 
 <br/>
