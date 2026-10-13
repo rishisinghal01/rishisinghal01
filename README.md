@@ -29,7 +29,7 @@
   <a href="https://www.linkedin.com/in/rishi-singal-8410a4324/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
-  <a href="https://leetcode.com/u/anonymous1706/">
+  <a href="https://leetcode.com/u/rishisingal0001/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="leetcode" />
   </a>
   <a href="mailto:rishi1462.be24@chitkarauniversity.edu.in">
